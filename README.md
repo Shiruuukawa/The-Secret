@@ -52,4 +52,9 @@ Your vault will be created automatically at `C:\thesecret\vault.enc` on first la
 - Python 3.10 or higher
 
 **Install dependencies:**
-```bash
+
+  bash  pip install customtkinter cryptography pillow
+
+**Run:**
+
+    python main.py
