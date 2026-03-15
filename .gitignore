@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+thesecret_data.enc
+thesecret.salt
+vault.enc
+vault.salt
+C:/thesecret/
+*.egg-info/
+.env
